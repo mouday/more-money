@@ -2,6 +2,10 @@
 
 零依赖的金额转换工具库
 
+项目相关
+- npm [https://www.npmjs.com/package/more-money](https://www.npmjs.com/package/more-money)
+- github [https://github.com/mouday/more-money](https://github.com/mouday/more-money)
+
 安装
 
 ```
