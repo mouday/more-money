@@ -28,6 +28,12 @@ validateMoney("12.001") // false
 validateMoney("12.01") // true
 ```
 
+支持
+
+- cjs
+- mjs
+- umd
+
 打包参考
 
 - [创建现代npm包的最佳实践](https://mp.weixin.qq.com/s/3YQl0o0GrnqL5tv1SHu3og)
