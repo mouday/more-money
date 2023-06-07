@@ -1,4 +1,5 @@
-import { formatMoney, validateMoney, parseMoney } from "../lib/esm/index.mjs";
+// import { formatMoney, validateMoney, parseMoney } from "../src/index";
+const { formatMoney, validateMoney, parseMoney } = require("../src/index");
 
 // test formatMoney
 test("formatMoney", function () {
