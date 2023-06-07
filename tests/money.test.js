@@ -1,4 +1,4 @@
-import { formatMoney, validateMoney, parseMoney } from "../src/more-money";
+import { formatMoney, validateMoney, parseMoney } from "../lib/esm/index.mjs";
 
 // test formatMoney
 test("formatMoney", function () {
